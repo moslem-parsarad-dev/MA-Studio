@@ -87,7 +87,7 @@ const About = () => {
     <section class="bg-gray-50 :bg-gray-800">
         <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
             <div class="max-w-screen-md mb-8 lg:mb-16">
-                <h2 class="mb-4 text-4xl font-extrabold text-gray-900 :text-white">Designed for business teams like yours</h2>
+                <h2 class="mb-4 text-4xl font-extrabold text-gray-900 :text-white">Lorem Lorem Ipsum Ipsum</h2>
                 <p class="text-gray-500 sm:text-xl :text-gray-400">Fugiat aute aliqua Lorem magna aliquip dolor nisi nisi.Fugiat aute aliqua Lorem magna aliquip dolor nisi nisi.Fugiat aute aliqua Lorem magna aliquip dolor nisi nisi.Fugiat aute aliqua Lorem magna aliquip dolor nisi nisi.Fugiat aute aliqua Lorem magna aliquip dolor nisi nisi.</p>
             </div>
             <div class="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0">
