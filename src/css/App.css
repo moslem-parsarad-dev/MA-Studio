@@ -1,0 +1,42 @@
+body {
+  background-color: #f0f0f0;
+}
+
+
+::selection {
+  background-color: #b3d8e7;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 1280px;
+  height: 720px;
+}
+
+.swiper-pagination-bullet {
+  background-color: #ffffff !important;
+}
+
+.test{
+  color: #074fa1;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #1C7293 !important;
+}
+
+*{
+  transition: 0.5s;
+}
